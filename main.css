@@ -1,21 +1,25 @@
 /*JID Bio Project */
 
 body {
-    /* background-color: rgb(102, 140, 106); */
-    background-color: beige;
+  background-color: beige;
 }
 
 .img-container {
-    height: 200px;
-    background-size: cover;
-    background-position: center;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
 }
 
 .fullPage {
-    width: 600px;
-    margin: 0 auto;
-    text-align: left;
+  width: 1000px;
+  margin: 0 auto;
+  text-align: left;
 }
 
+#projectsPage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
 
 /* END */

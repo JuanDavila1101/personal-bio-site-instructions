@@ -1,5 +1,3 @@
-console.log("Bio Project 1");
-
 const projects = [
   {
     title: "Product Cards",
